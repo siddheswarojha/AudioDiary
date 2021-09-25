@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350975033570",
+    "project_id": "audiodiary-a5dc3",
+    "storage_bucket": "audiodiary-a5dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350975033570:android:b412cff577f55261f8debb",
+        "android_client_info": {
+          "package_name": "com.poc.audiodiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350975033570-uer0lon38ut38kpig3i2qvi7foffuqf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Azb1htTm_D9BGOMuhbjBYTNrCOeNSbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350975033570-uer0lon38ut38kpig3i2qvi7foffuqf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
